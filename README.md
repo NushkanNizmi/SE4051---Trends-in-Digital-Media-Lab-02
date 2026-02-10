@@ -246,7 +246,8 @@ If you do not have a sound clip:
   - Light returns to **white**
   - Exit log appears in the Console
 ---
-# Is the implementation working as expected? If not, investigate the problem and resolve it using your programming knowledge.
+# Debug
+## Is the implementation working as expected? If not, investigate the problem and resolve it using your programming knowledge.
 ---
 
 # Part D — NPC Reaction (Simple “AI” Behavior) (30 Minutes)
